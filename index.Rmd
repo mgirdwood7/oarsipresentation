@@ -15,11 +15,15 @@ background-image: url(laseminverse.png)
 background-position:5% 95%
 background-size: 50%
 
-## Hip rotation strength after anterior cruciate ligament injury: relationship to functional, symptomatic and structural outcomes
+##Is hip rotation strength implicated in .blue[symptomatic] and .red[structural] osteoarthritis outcomes after anterior cruciate ligament injury?
 
 **Michael Girdwood**, Adam Culvenor, Brooke Patterson, Ali Guermazi, Kay Crossley
 
-m.girdwood@latrobe.edu.au
+.pull-left[
+OARSI 2022
+
+]
+
 
 ---
 ## Why the hip after ACL Reconstruction?
@@ -95,13 +99,13 @@ class: inverse, middle
 
 **Hip External Rotation & Internal Rotation with HHD**
 
-<img src = "hipstrength.png" width = "70%" />
+<img src = "hipstrength.png" width = "65%" />
 
 
 ]
 
+Measured *only at 1 year* with hand held dynamometer according to Kemp et al 2013, JSAMS protocol
 
-.right[Measured *only at 1 year*]
 
 ---
 
@@ -109,6 +113,27 @@ class: inverse, middle
 
 .m[<img src="DAGSMA.png" />]
 
+
+---
+
+## Methods: Outcomes and Analysis
+
+
+.red[Structural Outcomes]
+
+.pull-left[
+**Osteoarthritis** - measured on x-ray with OARSI criteria .font60[(Altman, 2007)]
+- joint space narrowing of grade ≥ 2
+- sum of osteophytes ≥ 2
+- grade 1 osteophyte in combination with grade 1 joint space narrowing 
+]
+
+.pull-right[
+
+**Cartilage worsening** - measured on MRI with MRI OA Knee Score (MOAKS) semiquantitative evaluation on VISTA sequence.
+
+Worsening of cartilage lesions at 5 years was defined as an increase in the score in any corresponding subregions for that compartment (i.e. increase in previous defect severity, or new feature identified in same compartment). .font60[(Runhaar et al., 2014)]
+]
 ---
 
 ### Results: Injured vs non-injured side
@@ -124,36 +149,6 @@ SMD = -0.33 (-0.6 to -0.07)]
 .black[No difference in IR strength.]]
 
 .right-column[<img src= "affnonaff.png" width = "85%" />]
-
----
-
-## Assocation to .green[Function]
-
-- Both Hip ER and IR were associated with all  measures at 1 year and 5 years.
-
-- Strongest relationships with <u>Hop for Distance</u> and <u>Triple Crossover Hop</u> for both.
-
-- Adjusted R<sup>2</sup> values were lower at 5 years:
-
-<br><br/>
-
-.pull-left[
-| .purple[1 Year] | ER | IR | 
-|-|---|---|
-|Hop for distance| 0.51| 0.47
-| One leg rise | 0.24 | 0.21|
-| Side Hop | 0.5 | 0.34 |
-| Triple Hop | 0.6 | 0.59 |
-]
-
-| .green[5 Year] | ER | IR | 
-|-|---|---|
-|Hop for distance| 0.4| 0.33
-| One leg rise | 0.22 | 0.15|
-| Side Hop | 0.42 | 0.31 |
-| Triple Hop | 0.46 | 0.38 |
-
-.center[.font90[(age and gender included in models)]]
 
 ---
 
@@ -176,6 +171,13 @@ SMD = -0.33 (-0.6 to -0.07)]
 ]
 
 .pull-right[<img src = "kneemri.png" width = "80%" /> ]
+
+---
+## Assocation to .red[Structure] (Imaging)
+
+No relationship between hip rotation strength and worsening patellofemoral carti- lage scores or patellofemoral osteoarthritis
+
+<img src = "ORforest.png" width = "80%" />
 
 ---
 
@@ -202,7 +204,7 @@ class: middle
 .content-box[
 - Hip ER strength was impaired on the injured side at 1 year post ACLR
 
-- This may contribute to functional, symptomatic, and structural outcomes up to 5 years post-operatively.
+- This may contribute to .blue[symptomatic], and .red[structural] outcomes up to 5 years post-operatively.
 
 - Contrary to initial hypothesis, hip rotation strength was not associated with PFJ structure
 ]    
@@ -213,14 +215,14 @@ background-image: url(laseminverse.png)
 background-position:5% 95%
 background-size: 50%
 
-.center[<img src = "koalateam.png" width = 80%/>]
 
 ## Thank you!
 
 .right[####Questions:
 
-m.girdwood@latrobe.edu.au
+[m.girdwood@latrobe.edu.au](mailto:m.girdwood@latrobe.edu.au)
 
-@m_girdwood]
+[@m_girdwood](https://twitter.com/m_girdwood)
+]
 
 
